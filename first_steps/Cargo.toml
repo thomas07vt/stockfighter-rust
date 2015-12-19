@@ -1,0 +1,8 @@
+[package]
+name = "first_steps"
+version = "0.1.0"
+authors = ["John Thomas <thomas07@vt.edu>"]
+
+[dependencies]
+hyper = "0.7.0"
+
